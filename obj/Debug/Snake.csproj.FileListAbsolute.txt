@@ -1,0 +1,11 @@
+C:\csharpProj\Snake\bin\Debug\Snake.exe.config
+C:\csharpProj\Snake\bin\Debug\Snake.exe
+C:\csharpProj\Snake\bin\Debug\Snake.pdb
+C:\csharpProj\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\csharpProj\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\csharpProj\Snake\obj\Debug\Snake.Form1.resources
+C:\csharpProj\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\csharpProj\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\csharpProj\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\csharpProj\Snake\obj\Debug\Snake.exe
+C:\csharpProj\Snake\obj\Debug\Snake.pdb
